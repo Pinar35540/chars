@@ -1,0 +1,5 @@
+[package]
+name = "chars"
+version = "0.1.0"
+edition = "2021"
+description = "cha(rs) is a commandline tool to display information about unicode characters"
