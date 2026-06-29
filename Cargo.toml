@@ -28,3 +28,4 @@ description = "cha(rs) is a commandline tool to display information about unicod
 # drop an unused branch
 # handle the edge case from the last release
 # drop an unused branch
+# clarify the control flow
