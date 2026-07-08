@@ -33,3 +33,4 @@
 - fix: add a note about the defaults
 - chore: link the usage section
 - docs: fix a small wording issue
+- docs: link the usage section
